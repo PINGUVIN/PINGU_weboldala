@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../PINGU_web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PINGU_web"
+	}
+}
